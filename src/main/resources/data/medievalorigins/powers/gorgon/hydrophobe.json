@@ -25,9 +25,6 @@
 							"comparison": ">",
 							"compare_to": 0.0
 						},
-						{
-							"type": "origins:in_rain"
-						}
 					]
 				},
 				{
