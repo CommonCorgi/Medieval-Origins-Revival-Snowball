@@ -6,7 +6,7 @@
         "type": "origins:biome",
         "condition": {
             "type": "origins:in_tag",
-            "tag": "minecraft:is_forest"
+            "tag": "minecraft:is_forest", "minecraft:is_swamp", "biomeswevegone:is_araucaria_savanna"
         }
     },
     "entity_action": {
