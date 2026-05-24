@@ -15,8 +15,7 @@
     "ProjectileMixin",
     "TargetingConditionsMixin",
     "VillagerMixin",
-    "ZombieVillagerInvoker",
-    "compat.icarus.IcarusHelperMixin",
+    "ZombieVillagerInvoker"
     "compat.iceandfire.PixieAIStealMixin",
     "compat.iceandfire.PlayerMixin",
     "compat.iceandfire.SirenEntityMixin"
@@ -24,8 +23,7 @@
   "client": [
     "client.AbstractClientPlayerMixin",
     "client.ElytraModelMixin",
-    "client.LivingEntityRendererMixin",
-    "compat.icarus.IcarusClientMixin"
+    "client.LivingEntityRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
