@@ -115,13 +115,6 @@ dependencies {
 	modImplementation("me.shedaniel.cloth:cloth-config-fabric:${project.cloth_config_version}")
 	implementation("com.github.ZsoltMolnarrr:TinyConfig:${project.tiny_config_version}")
 
-	// Icarus
-	modImplementation ("maven.modrinth:icarus:${project.icarus_version}")
-	modImplementation ("dev.emi:trinkets:${project.trinkets_version}")
-	modLocalRuntime ("com.teamresourceful.resourcefulconfig:resourcefulconfig-fabric-1.21:${project.resourceful_version}")
-	modLocalRuntime ("mysticdrew:common-networking-fabric:${project.cmnw_version}")
-	modLocalRuntime "dev.upcraft.sparkweave:Sparkweave-Fabric:${project.sparkweave_version}"
-
 	// FTB
 	modImplementation("dev.ftb.mods:ftb-library-fabric:${project.ftb_library_version}")
 	modImplementation("dev.ftb.mods:ftb-teams-fabric:${project.ftb_teams_version}")
