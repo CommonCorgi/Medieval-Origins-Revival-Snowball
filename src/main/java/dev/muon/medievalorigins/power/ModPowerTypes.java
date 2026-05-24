@@ -8,7 +8,6 @@ import net.minecraft.core.Registry;
 public class ModPowerTypes {
     public static final PowerConfiguration<PixieWingsPowerType> PIXIE_WINGS = register(PixieWingsPowerType.FACTORY);
     public static final PowerConfiguration<FaeWingsPowerType> FAE_WINGS = register(FaeWingsPowerType.FACTORY);
-    public static final PowerConfiguration<IcarusWingsPowerType> ICARUS_WINGS = register(IcarusWingsPowerType.FACTORY);
     public static final PowerConfiguration<OwnerAttributeTransferPowerType> OWNER_ATTRIBUTE_TRANSFER = register(OwnerAttributeTransferPowerType.FACTORY);
     public static final PowerConfiguration<MobsIgnorePowerType> MOBS_IGNORE = register(MobsIgnorePowerType.FACTORY);
     public static final PowerConfiguration<ActionOnTargetDeathPowerType> ACTION_ON_TARGET_DEATH = register(ActionOnTargetDeathPowerType.FACTORY);
